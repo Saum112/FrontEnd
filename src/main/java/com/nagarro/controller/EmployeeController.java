@@ -17,6 +17,7 @@ import com.nagarro.service.EmployeeService;
  * @author saumyaawasthi
  *
  */
+//Controller
 @RestController
 public class EmployeeController {
 
